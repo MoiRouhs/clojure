@@ -4,6 +4,7 @@
 (def x 1)  ;; Variable de nombre x a la cual se le asigna el número 1, número entero
 (def y 1.25) ;; Variable de punto flotante.
 (def str1 "Hello") ;; Variable de tipo scring cadena de texto.
+(def str1 "Sobreescritura de una variable") ;; Es obligatorio usar def nuevamente para la sobre escritura.
 (def boleana false) ;; Variables de tipo boleana true / false
    
 (println x) ;; La función println nos muestra en consola el eleento que deseemos.
